@@ -331,6 +331,10 @@ file = "config/flywheel-client-2.toml.bak"
 file = "config/flywheel-client.toml"
 
 [[files]]
+file = "config/flywheel-client.toml"
+hash = "9a8019a2819cf8f27a30c0788b458ed7e9b6d749faea23d8feafa0424c4bb568"
+
+[[files]]
 file = "config/fml.toml"
 
 [[files]]
@@ -721,6 +725,10 @@ file = "config/tfc-server-1.toml.bak"
 file = "config/tfc-server.toml"
 
 [[files]]
+file = "config/tfc-server.toml"
+hash = "67dfbd54a1d8d907952834ebe2e95aef36628dfe6aad1d9b2f5162dcac43140d"
+
+[[files]]
 file = "config/tfc_eratosthenes-client.toml"
 
 [[files]]
@@ -772,6 +780,10 @@ file = "config/tfcvolcanoes-startup-1.toml.bak"
 file = "config/tfcvolcanoes-startup.toml"
 
 [[files]]
+file = "config/tfcvolcanoes-startup.toml"
+hash = "24f24e38c2d27af423463c16da5ab5ecfb3a12a5591c8dc98deaa75b063de9c4"
+
+[[files]]
 file = "config/tfmg-common.toml"
 
 [[files]]
@@ -788,6 +800,14 @@ file = "config/thermia-server.toml"
 
 [[files]]
 file = "config/tinymultiblocklib-client.toml"
+
+[[files]]
+file = "config/thermia-server.toml"
+hash = "509f6d20105e12f04789c29653fbec567e4c08f79d73b74f7703ecec732264b8"
+
+[[files]]
+file = "config/tinymultiblocklib-client.toml"
+hash = "0f7f3d986bc911feb53f4eb86a1203a862be9b2c04192d308fd5b8831e252442"
 
 [[files]]
 file = "config/transition.json"
@@ -835,6 +855,10 @@ file = "kubejs/README.txt"
 file = "kubejs/assets/create/textures/item/unfinished/copper_backtank.png"
 
 [[files]]
+file = "kubejs/assets/create/textures/item/unfinished/copper_backtank.png"
+hash = "ff9a5a915fdf5c9c025f42d9f418ce3d7501e7911884e4050c6ef22db8dfd349"
+
+[[files]]
 file = "kubejs/assets/even_more_tfc/textures/item/metal/triple_ingot/bismuth.png"
 
 [[files]]
@@ -869,6 +893,14 @@ file = "kubejs/assets/terra/textures/item/hardtack_sandwich.png"
 
 [[files]]
 file = "kubejs/assets/terra/textures/item/unfired_ceremetal.png"
+
+[[files]]
+file = "kubejs/assets/terra/textures/item/hardtack_sandwich.png"
+hash = "d82e67b050ddd43ffd3b3c19e0ab6e7c4dbce84f093ec234cdcf8dceb5bba7d2"
+
+[[files]]
+file = "kubejs/assets/terra/textures/item/unfired_ceremetal.png"
+hash = "f75be895bdedc94a66ce8d74bcd51c2b0b25fbcbafc5a9cf5d60dc584a06c1a7"
 
 [[files]]
 file = "kubejs/client_scripts/jsconfig.json"
@@ -958,6 +990,14 @@ file = "kubejs/startup_scripts/sledgehammer_excavator_durability.js"
 file = "kubejs/startup_scripts/smithing_unfinished/unfinished.js"
 
 [[files]]
+file = "kubejs/startup_scripts/sledgehammer_excavator_durability.js"
+hash = "30e33492a627eb0b6be1d3778c19cf9f97ac309e2b9bb1997a16915d58529bc2"
+
+[[files]]
+file = "kubejs/startup_scripts/smithing_unfinished/unfinished.js"
+hash = "b4d45846f05d0cd9c103970b2b417b08b0d02265764a282a3a3f9b4d95b0ba37"
+
+[[files]]
 file = "kubejs/startup_scripts/triple_ingot.js"
 
 [[files]]
@@ -1038,6 +1078,11 @@ metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/connector.pw.toml"
+hash = "a38d72ca403e9064338be6e0cf69532768b0c1aba8f88703a8ce74c2734da522"
 metafile = true
 
 [[files]]
@@ -1498,6 +1543,11 @@ metafile = true
 
 [[files]]
 file = "mods/tfc-fire-clay-addition.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tfc-fire-clay-addition.pw.toml"
+hash = "eaca0827e3392358be0dafa863ad65666cca8c6a4ee510d71acefdd324fc1508"
 metafile = true
 
 [[files]]
