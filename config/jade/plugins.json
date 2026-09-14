@@ -98,6 +98,9 @@
   "kubejs_tfc": {
     "heat_consumer": true
   },
+  "neoorigins": {
+    "origin": true
+  },
   "firmalife": {
     "barrel_press": true,
     "keg_sub": true,

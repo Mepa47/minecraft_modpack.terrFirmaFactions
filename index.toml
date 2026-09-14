@@ -199,6 +199,12 @@ file = "config/curios-common.toml"
 file = "config/curios-server.toml"
 
 [[files]]
+file = "config/datapacks/neoorigins_dwarf_datapack.zip"
+
+[[files]]
+file = "config/datapacks/neoorigins_elf_datapack.zip"
+
+[[files]]
 file = "config/decay_2012-client.toml"
 
 [[files]]
@@ -206,6 +212,9 @@ file = "config/decay_2012-server.toml"
 
 [[files]]
 file = "config/delightfulcreators-server.toml"
+
+[[files]]
+file = "config/discordintegration-server.toml"
 
 [[files]]
 file = "config/dndecor-server.toml"
@@ -314,6 +323,9 @@ file = "config/firmasupps-server.toml"
 
 [[files]]
 file = "config/flywheel-client-1.toml.bak"
+
+[[files]]
+file = "config/flywheel-client-2.toml.bak"
 
 [[files]]
 file = "config/flywheel-client.toml"
@@ -547,6 +559,21 @@ file = "config/neoforge-common.toml"
 file = "config/neoforge-server.toml"
 
 [[files]]
+file = "config/neoorigins/admin.toml"
+
+[[files]]
+file = "config/neoorigins/client.toml"
+
+[[files]]
+file = "config/neoorigins/content.toml"
+
+[[files]]
+file = "config/neoorigins/gameplay.toml"
+
+[[files]]
+file = "config/neoorigins/power_overrides.toml"
+
+[[files]]
 file = "config/origins.json"
 
 [[files]]
@@ -557,6 +584,30 @@ file = "config/ponder-client.toml"
 
 [[files]]
 file = "config/precision-prospecting.toml"
+
+[[files]]
+file = "config/puffish_skills/categories/lumberjack/category.json"
+
+[[files]]
+file = "config/puffish_skills/categories/lumberjack/connections.json"
+
+[[files]]
+file = "config/puffish_skills/categories/lumberjack/definitions.json"
+
+[[files]]
+file = "config/puffish_skills/categories/lumberjack/skills.json"
+
+[[files]]
+file = "config/puffish_skills/categories/miner/category.json"
+
+[[files]]
+file = "config/puffish_skills/categories/miner/connections.json"
+
+[[files]]
+file = "config/puffish_skills/categories/miner/definitions.json"
+
+[[files]]
+file = "config/puffish_skills/categories/miner/skills.json"
 
 [[files]]
 file = "config/puffish_skills/config.json"
@@ -583,7 +634,19 @@ file = "config/sliceanddice-client.toml"
 file = "config/sliceanddice-common.toml"
 
 [[files]]
+file = "config/snatched_config_-4293327002556713773.json"
+
+[[files]]
 file = "config/snatched_config_-5277158511244451204.json"
+
+[[files]]
+file = "config/snatched_config_-8084773618597632057.json"
+
+[[files]]
+file = "config/snatched_config_-8086810932361478843.json"
+
+[[files]]
+file = "config/snatched_config_6371622376499377825.json"
 
 [[files]]
 file = "config/sodium-fingerprint.json"
@@ -635,6 +698,12 @@ file = "config/tabchannel/stream_chat.json"
 
 [[files]]
 file = "config/tabchannel/stream_overlay.json"
+
+[[files]]
+file = "config/terraskills-client.toml"
+
+[[files]]
+file = "config/terraskills-server.toml"
 
 [[files]]
 file = "config/territory-server.toml"
@@ -754,12 +823,6 @@ file = "config/waterflasks-common.toml"
 file = "config/xercapaint-server.toml"
 
 [[files]]
-file = "datapacks/neoorigins_dwarf_datapack.zip"
-
-[[files]]
-file = "datapacks/neoorigins_elf_datapack.zip"
-
-[[files]]
 file = "docker/Dockerfile"
 
 [[files]]
@@ -865,6 +928,9 @@ file = "kubejs/server_scripts/mepafolderserver/hardtack sandwich/craftablesandwi
 file = "kubejs/server_scripts/mepafolderserver/hardtack sandwich/sandwichnutrition.js"
 
 [[files]]
+file = "kubejs/server_scripts/mepafolderserver/treefortune.js"
+
+[[files]]
 file = "kubejs/server_scripts/profession/adventurer/adventurer_tools_recipe.js"
 
 [[files]]
@@ -912,6 +978,10 @@ metafile = true
 
 [[files]]
 file = "mods/astikorcarts-redux.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/attributes.pw.toml"
 metafile = true
 
 [[files]]

@@ -1,0 +1,92 @@
+{
+	"o3h8ebw08qbk1e77": {
+		"definition": "placeholder",
+		"x": 0,
+		"y": 0,
+		"root": true
+	},
+	"as59tbc2dtfdppcn": {
+		"definition": "pickaxe_buff_1",
+		"x": 64,
+		"y": 0,
+		"root": false
+	},
+	"a2yxtjz0e7jxy27u": {
+		"definition": "pickaxe_buff_2",
+		"x": 128,
+		"y": 0,
+		"root": false
+	},
+	"5te4vuyhr3buk7nh": {
+		"definition": "pickaxe_buff_3",
+		"x": 192,
+		"y": 0,
+		"root": false
+	},
+	"ef0h67kp53fkw2f0": {
+		"definition": "pickaxe_buff_4",
+		"x": 128,
+		"y": 160,
+		"root": false
+	},
+	"e4i3v1wwe2kccn9l": {
+		"definition": "pickaxe_buff_5",
+		"x": 192,
+		"y": 128,
+		"root": false
+	},
+	"ilyq2l6xma8iz2v5": {
+		"definition": "pickaxe_buff_6",
+		"x": 192,
+		"y": 64,
+		"root": false
+	},
+	"5tpqj0emawquduff": {
+		"definition": "shovel_buff_1",
+		"x": -64,
+		"y": 0,
+		"root": false
+	},
+	"n6pkl18wvd63j1bw": {
+		"definition": "shovel_buff_2",
+		"x": -128,
+		"y": 0,
+		"root": false
+	},
+	"e0cweb126ke7xrzl": {
+		"definition": "shovel_buff_3",
+		"x": -192,
+		"y": 0,
+		"root": false
+	},
+	"mx1hpdgnr2ctff1w": {
+		"definition": "shovel_buff_4",
+		"x": -192,
+		"y": 64,
+		"root": false
+	},
+	"v9q822tj0it90n4r": {
+		"definition": "shovel_buff_5",
+		"x": -192,
+		"y": 128,
+		"root": false
+	},
+	"sux6lajotgdsaitu": {
+		"definition": "shovel_buff_6",
+		"x": -128,
+		"y": 160,
+		"root": false
+	},
+	"r19m3bh4sgcff7xa": {
+		"definition": "fortune_buff_1",
+		"x": 0,
+		"y": 64,
+		"root": false
+	},
+	"j7bi9xetsbfa8vcs": {
+		"definition": "fortune_buff_2",
+		"x": 0,
+		"y": 128,
+		"root": false
+	}
+}

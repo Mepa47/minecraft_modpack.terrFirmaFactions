@@ -1,0 +1,18 @@
+[skillPointHud]
+	#Show progress toward the next skill point on the HUD.
+	enabled = true
+	#HUD scale. 1 is normal size.
+	# Default: 1.0
+	# Range: 0.25 ~ 4.0
+	scale = 1.0
+	#Horizontal position as a percentage of screen width.
+	# Default: 98.0
+	# Range: 0.0 ~ 100.0
+	horizontalPercent = 98.0
+	#Vertical position as a percentage of screen height.
+	# Default: 98.0
+	# Range: 0.0 ~ 100.0
+	verticalPercent = 98.0
+	#The point on the HUD attached to the configured screen position.
+	#Allowed Values: TOP_LEFT, TOP, TOP_RIGHT, LEFT, CENTER, RIGHT, BOTTOM_LEFT, BOTTOM, BOTTOM_RIGHT
+	anchor = "BOTTOM_RIGHT"

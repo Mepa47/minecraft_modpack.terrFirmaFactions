@@ -1,0 +1,170 @@
+{
+    "placeholder": {
+        "title": "WIP",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "minecraft:grass_block"
+            }
+        }
+    },
+
+    "axe_fortune_1": {
+        "title": "Axe Fortune I",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "tfc:wood/axe/stone"
+            }
+        },
+        "description": "Get more logs from trees",
+        "rewards": [
+            {
+                "type": "puffish_skills:gamestages",
+                "data": {
+                    "stage": "tree_fortune_1"
+                }
+            }
+        ]
+    },
+
+    "axe_fortune_2": {
+        "title": "Axe Fortune II",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "tfc:wood/axe/iron"
+            }
+        },
+        "description": "Get more logs from trees",
+        "rewards": [
+            {
+                "type": "puffish_skills:gamestages",
+                "data": {
+                    "stage": "tree_fortune_2"
+                }
+            }
+        ]
+    }, 
+    "axe_speed_1"
+: {
+        "title": "Axe Speed I",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "tfc:wood/axe/stone"
+            }
+        },
+        "description": "Chop trees faster",
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "puffish_attributes:axe_speed",
+                    "value": 2,
+                    "operation": "addition"
+                }
+            }
+        ]
+    },
+    "axe_speed_2": {
+        "title": "Axe Speed II",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "tfc:wood/axe/iron"
+            }
+        },
+        "description": "Chop trees faster",
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "puffish_attributes:axe_speed",
+                    "value": 2,
+                    "operation": "addition"
+                }
+            }
+        ]
+    },
+    "axe_speed_3": {
+        "title": "Axe Speed III",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "tfc:wood/axe/steel"
+            }
+        },
+        "description": "Chop trees faster",
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "puffish_attributes:axe_speed",
+                    "value": 2,
+                    "operation": "addition"
+                }
+            }
+        ]
+    },
+    "axe_speed_4": {
+        "title": "Axe Speed IV",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "tfc:wood/axe/bronze"
+            }
+        },
+        "description": "Chop trees faster",
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "puffish_attributes:axe_speed",
+                    "value": 2,
+                    "operation": "addition"
+                }
+            }
+        ]
+    },
+    "axe_speed_5": {
+        "title": "Axe Speed V",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "tfc:wood/axe/black_steel"
+            }
+        },
+        "description": "Chop trees faster",
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "puffish_attributes:axe_speed",
+                    "value": 5,
+                    "operation": "addition"
+                }
+            }
+        ]
+    },
+    "axe_speed_6": {
+        "title": "Axe Speed VI",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "tfc:wood/axe/black_steel"
+            }
+        },
+        "description": "Chop trees faster",
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "puffish_attributes:axe_speed",
+                    "value": 5,
+                    "operation": "addition"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,294 @@
+{
+    "placeholder": {
+        "title": "WIP",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "minecraft:grass_block"
+            }
+        }
+    },
+
+    "pickaxe_buff_1": {
+        "title": "Mining Speed 1",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "minecraft:wooden_pickaxe"
+            }
+        },
+        "description": "Mine 2% faster",
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "puffish_attributes:pickaxe_speed",
+                    "value": 2,
+                    "operation": "addition"
+                }
+            }
+        ]
+    },
+
+    "pickaxe_buff_2": {
+        "title": "Mining Speed 2",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "minecraft:stone_pickaxe"
+            }
+        },
+        "description": "Mine 2% faster",
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "puffish_attributes:pickaxe_speed",
+                    "value": 2,
+                    "operation": "addition"
+                }
+            }
+        ]
+    },
+
+    "pickaxe_buff_3": {
+        "title": "Mining Speed 3",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "minecraft:iron_pickaxe"
+            }
+        },
+        "description": "Mine 2% faster",
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "puffish_attributes:pickaxe_speed",
+                    "value": 2,
+                    "operation": "addition"
+                }
+            }
+        ]
+    },
+
+    "pickaxe_buff_4": {
+        "title": "Mining Speed 4",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "minecraft:golden_pickaxe"
+            }
+        },
+        "description": "Mine 2% faster",
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "puffish_attributes:pickaxe_speed",
+                    "value": 2,
+                    "operation": "addition"
+                }
+            }
+        ]
+    },
+
+    "pickaxe_buff_5": {
+        "title": "Mining Speed 5",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "minecraft:diamond_pickaxe"
+            }
+        },
+        "description": "Mine 5% faster",
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "puffish_attributes:pickaxe_speed",
+                    "value": 5,
+                    "operation": "addition"
+                }
+            }
+        ]
+    },
+
+    "pickaxe_buff_6": {
+        "title": "Mining Speed 6",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "minecraft:netherite_pickaxe"
+            }
+        },
+        "description": "Mine 5% faster",
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "puffish_attributes:pickaxe_speed",
+                    "value": 5,
+                    "operation": "addition"
+                }
+            }
+        ]
+    },
+
+    "shovel_buff_1": {
+        "title": "Shovel Speed 1",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "minecraft:wooden_shovel"
+            }
+        },
+        "description": "Mine 2% faster!",
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "puffish_attributes:shovel_speed",
+                    "value": 2,
+                    "operation": "addition"
+                }
+            }
+        ]
+    },
+    "shovel_buff_2": {
+        "title": "Shovel Speed 2",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "minecraft:stone_shovel"
+            }
+        },
+        "description": "Mine 2% faster!",
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "puffish_attributes:shovel_speed",
+                    "value": 2,
+                    "operation": "addition"
+                }
+            }
+        ]
+    },
+    "shovel_buff_3": {
+        "title": "Shovel Speed 3",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "minecraft:iron_shovel"
+            }
+        },
+        "description": "Mine 2% faster!",
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "puffish_attributes:shovel_speed",
+                    "value": 2,
+                    "operation": "addition"
+                }
+            }
+        ]
+    },
+    "shovel_buff_4": {
+        "title": "Shovel Speed 4",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "minecraft:golden_shovel"
+            }
+        },
+        "description": "Mine 2% faster!",
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "puffish_attributes:shovel_speed",
+                    "value": 2,
+                    "operation": "addition"
+                }
+            }
+        ]
+    },
+    "shovel_buff_5": {
+        "title": "Shovel Speed 5",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "minecraft:diamond_shovel"
+            }
+        },
+        "description": "Mine 2% faster!",
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "puffish_attributes:shovel_speed",
+                    "value": 2,
+                    "operation": "addition"
+                }
+            }
+        ]
+    },
+        "shovel_buff_6": {
+            "title": "Shovel Speed 6",
+                "icon": {
+                "type": "item",
+                 "data": {
+                "item": "minecraft:netherite_shovel"
+            }
+        },
+        "description": "Mine 5% faster!",
+        "rewards": [
+            {
+                "type": "puffish_skills:attribute",
+                "data": {
+                    "attribute": "puffish_attributes:shovel_speed",
+                    "value": 5,
+                    "operation": "addition"
+                }
+            }
+        ]
+    },
+    "fortune_buff_1": {
+        "title": "Fortune I",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "minecraft:iron_pickaxe"
+            }
+        },
+        "description": "Get more drops from ores",
+        "rewards": [
+            {
+                "type": "puffish_skills:gamestages",
+                "data": {
+                    "stage": "ore_fortune_1"
+                }
+            }
+        ]
+    },
+    "fortune_buff_2": {
+        "title": "Fortune II",
+        "icon": {
+            "type": "item",
+            "data": {
+                "item": "minecraft:diamond_pickaxe"
+                }
+            },
+            "description": "Get more drops from ores",
+            "rewards": [
+                {
+                    "type": "puffish_skills:gamestages",
+                    "data": {
+                        "stage": "ore_fortune_2"
+                    }
+                }
+            ]
+        }
+    }
